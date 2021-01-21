@@ -4,6 +4,7 @@
 /* --------------------------------------------------------------
 Script: btc-usd-course.js
 Author: Nico Wickersheim
+Edit: Sebastian Madl
 Version: 1.0.0
 
 Description:
